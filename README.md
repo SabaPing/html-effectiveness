@@ -1,5 +1,7 @@
 # The unreasonable effectiveness of HTML — examples
 
+> **Sample code. Not maintained and not accepting contributions.**
+
 A gallery of standalone HTML examples that accompany the blog post on using HTML
 as a flexible output format. Each file is a self-contained `.html` page (no build
 step, no dependencies) demonstrating a different use case — from code review and
@@ -30,14 +32,10 @@ All product names, data, and scenarios in these examples are fictional and used
 only for illustration. The placeholder brand "Acme" and any figures shown are
 not real.
 
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md).
-
 ## Security
 
 See [SECURITY.md](SECURITY.md) for how to report a vulnerability.
 
 ## License
 
-Released under the [MIT License](LICENSE).
+Released under the [Apache License 2.0](LICENSE).
